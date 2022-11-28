@@ -1,5 +1,4 @@
 # Class Directory
-Our class directory and public ssh keys
 
 This repository will contain our class directory, which will be created by all of you. To contribute your information to the directory, you will:
 
