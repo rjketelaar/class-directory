@@ -32,3 +32,11 @@
 
 ---
 
+## Noah Pell
+
+* email: noahpell2022@gmail.com
+* github: NoahPell
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDP7K5V9XE4hyycShdvtxbOB7aB8QqWEfe9qRM0G+qgG noahpell2022@gmail.com
+
+---
+
