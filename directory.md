@@ -32,6 +32,14 @@
 
 ---
 
+## Keagan Kailing
+
+* email: keagan.kailing@gmail.com
+* github: Buddydog666
+* ssh-key ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG/Pk0hWj1kjQldd/2qtdUR9QHhCtkVSTYPTDbGbJfoM keagan.kailing@gmail.com
+
+---
+
 ## Matthew Wemple
 
 * email: wemplematt@gmail.com
