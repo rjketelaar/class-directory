@@ -32,3 +32,8 @@
 
 ---
 
+## Jackson Reed
+
+* email: reed.jackson327@gmail.com
+* github: j-reed59
+* ssh-key:ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKntOdrl9/z6JaTYFbiPO1s2nja7BK/s4Q7bkpdofD04 reed.jackson327@gmail.com
