@@ -32,6 +32,14 @@
 
 ---
 
+## Elijah Beerman
+
+* email: ebeerman19@gmail.com
+* github: thedoomguy1212
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP+2ITNxt5cnPtRJSfqDySiP7LTVsI+8pFNd9HCa6h3L ebeerman19@gmail.com
+
+---
+
 ## Noah Pell
 
 * email: noahpell2022@gmail.com
@@ -55,4 +63,5 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOQSgebrTD/K4kOADuqET5VdJEV+0YzvdZrmV1mBO7bD wemplematt@gmail.com
 
 ---
+
 
