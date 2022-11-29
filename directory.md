@@ -32,3 +32,11 @@
 
 ---
 
+
+## Leticia Pinales
+
+* email: leticiapinaless@gmail.com
+* github: leticiapina
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDSUMqyCrZcs72BgGgwkBOaCu5cwiAff4Vsy3UwhM1W3 leticiapinaless@gmail.com
+
+---
