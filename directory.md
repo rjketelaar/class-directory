@@ -32,6 +32,14 @@
 
 ---
 
+## Jackson Reed
+
+* email: reed.jackson327@gmail.com
+* github: j-reed59
+* ssh-key:ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKntOdrl9/z6JaTYFbiPO1s2nja7BK/s4Q7bkpdofD04 reed.jackson327@gmail.com
+
+---
+
 ##Lance Hunt
 * email: Lanceh404@gmail.com
 * github: Lance-Hunt
@@ -77,6 +85,8 @@
 * github: dowtyler
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOwcgobjK5oHVmIFySPxxGqrpLOt9c5GrtdzBDlBXb2R dowtyler4406@gmail.com
 
+---
+
 ## Corbin Crandall
 
 * email: crandall81005@gmail.com
@@ -116,4 +126,6 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOQSgebrTD/K4kOADuqET5VdJEV+0YzvdZrmV1mBO7bD wemplematt@gmail.com
 
 ---
+
+
 
