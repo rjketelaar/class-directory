@@ -32,3 +32,11 @@
 
 ---
 
+## Austin Hancock
+
+* email: austin.hancock075@gmail.com
+* github: Nitsua75
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDo7bsW96sH5ErAmQbMlPMKoTMACbImpXak2MsaDkvz5 austin.hancock075@gmail.com
+
+---
+
