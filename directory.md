@@ -32,6 +32,14 @@
 
 ---
 
+## Jaxon Olin
+
+* email: JaxonOlin@gmail.com
+* github: JaxonOlin
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIXTRnYs/1/qeyErFyrG9EAzvcxMbibWZiG3XPU8qBkD JaxonOlin@gmail.com
+
+---
+
 ## Leticia Pinales
 
 * email: leticiapinaless@gmail.com
@@ -101,3 +109,4 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOQSgebrTD/K4kOADuqET5VdJEV+0YzvdZrmV1mBO7bD wemplematt@gmail.com
 
 ---
+
