@@ -31,4 +31,9 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJwtvbjSi1wm4vBR0e8GSdgodtDMiuNR7A8sP0pVOcyR seanpettis050@gmail.com
 
 ---
+##Lance Hunt
+* email: Lanceh404@gmail.com
+* github: Lance-Hunt
+* ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFVNVhPedqG1azrEXTaH7liXag5HhEGEe3gZ67PkiaWY Lanceh404@gmail.com
 
+---
