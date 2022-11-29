@@ -32,3 +32,10 @@
 
 ---
 
+## Tyler Dow
+
+* email: dowtyler4406@gmial.com
+* github: dowtyler
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOwcgobjK5oHVmIFySPxxGqrpLOt9c5GrtdzBDlBXb2R dowtyler4406@gmail.com
+
+
