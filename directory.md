@@ -32,6 +32,12 @@
 
 ---
 
+## Tyler Dow
+
+* email: dowtyler4406@gmial.com
+* github: dowtyler
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOwcgobjK5oHVmIFySPxxGqrpLOt9c5GrtdzBDlBXb2R dowtyler4406@gmail.com
+
 ## Corbin Crandall
 
 * email: crandall81005@gmail.com
@@ -71,4 +77,5 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOQSgebrTD/K4kOADuqET5VdJEV+0YzvdZrmV1mBO7bD wemplematt@gmail.com
 
 ---
+
 
