@@ -32,3 +32,11 @@
 
 ---
 
+## Corbin Crandall
+
+* email: crandall81005@gmail.com
+* github: Turewolf16
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB2TYk+n5DbBUkeV1/VhHVGizrY7YZ+SIME4uNjsByfJ ccrandall81005@gmail.com
+
+---
+
