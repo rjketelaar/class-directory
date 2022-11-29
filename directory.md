@@ -32,3 +32,9 @@
 
 ---
 
+## Elijah Beerman
+* email: ebeerman19@gmail.com
+* github: thedoomguy1212
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP+2ITNxt5cnPtRJSfqDySiP7LTVsI+8pFNd9HCa6h3L ebeerman19@gmail.com
+
+---
