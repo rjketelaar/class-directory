@@ -32,3 +32,10 @@
 
 ---
 
+## Matthew Wemple
+
+* email: wemplematt@gmail.com
+* github: mattwemple
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOQSgebrTD/K4kOADuqET5VdJEV+0YzvdZrmV1mBO7bD wemplematt@gmail.com
+
+---
