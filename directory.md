@@ -15,3 +15,12 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAc2JbukytX3LLEAAA4cNctBL4zzScwlqDcDwgVuPq5X aidenstart@gmail.com
 
 ---
+
+## Sean Pettis
+
+* email: seanpettis050@gmail.com
+* github: SeanPettis
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJwtvbjSi1wm4vBR0e8GSdgodtDMiuNR7A8sP0pVOcyR seanpettis050@gmail.com
+
+---
+
