@@ -12,7 +12,7 @@
 
 * email: edpatterson16@gmail.com
 * github: PattersonEd
-* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGQfbS6BeIBvW76asIahiz22ZkWw7KF2OCq+4S2dXL6l edpatterson16@gmail.com edpatterson16@gmail.com
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGQfbS6BeIBvW76asIahiz22ZkWw7KF2OCq+4S2dXL6l edpatterson16@gmail.com
 
 ---
 
@@ -37,6 +37,22 @@
 * email: noahpell2022@gmail.com
 * github: NoahPell
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDP7K5V9XE4hyycShdvtxbOB7aB8QqWEfe9qRM0G+qgG noahpell2022@gmail.com
+
+---
+
+## Keagan Kailing
+
+* email: keagan.kailing@gmail.com
+* github: Buddydog666
+* ssh-key ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG/Pk0hWj1kjQldd/2qtdUR9QHhCtkVSTYPTDbGbJfoM keagan.kailing@gmail.com
+
+---
+
+## Matthew Wemple
+
+* email: wemplematt@gmail.com
+* github: mattwemple
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOQSgebrTD/K4kOADuqET5VdJEV+0YzvdZrmV1mBO7bD wemplematt@gmail.com
 
 ---
 
