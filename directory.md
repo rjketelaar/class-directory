@@ -127,5 +127,9 @@
 
 ---
 
+## Riley Ketelaar
 
+* email: rjketelaar3@gmail.com
+* github: rjketelaar
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFQC9t21G7URm83WvM9XA+skwoDnrmER2oWfc91u+Nwn rjketelaar3@gmail.com
 
